@@ -6,7 +6,7 @@
 - Web Scraping 🌐  
 - UI/UX Design 🎨  
 - 3D Design & Modeling 🏗️  
-- Traffic Management & Automation 🚦  
+- Automation 🚦  
 
 ## 🌱 I’m currently learning  
 - Advanced Python Automation 🤖  
