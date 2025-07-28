@@ -1,38 +1,17 @@
 
-🚀 Aspiring Engineer | Python Developer | IoT & Automation Enthusiast
+# 👋 Hi, I’m Sandesh Bhatta (@sandeshbhatta495)
 
-Hi! I’m Sandesh Bhatta — an ambitious, self-driven Electronics, Communication, and IT undergraduate at Tribhuvan University. As a first-generation engineer from a remote region, I bring resilience, creativity, and a relentless drive to innovate.
+#**🚀 Aspiring Engineer | Python Developer | IoT & Automation Enthusiast**
 
-🔹 What I Do:
+**Hi! I’m **Sandesh Bhatta ****— an ambitious, self-driven Electronics, Communication, and IT undergraduate at Tribhuvan University. As a first-generation engineer from a remote region, I bring resilience, creativity, and a relentless drive to innovate.
+**
+🔹 What I Do**:
 
 Develop scalable tech solutions using Python, C/C++, and cutting-edge frameworks
 Analyze data for actionable insights with Pandas, NumPy, and Seaborn
 Build and automate real-world systems with IoT, Arduino, and Raspberry Pi
 Design user-centric web and desktop applications
 Automate repetitive tasks using Selenium, BeautifulSoup, and n8n
-💡 My Projects:
-
-Smart Agriculture IoT Systems 🌱
-AI-powered Chatbots 🤖
-Sales & Data Analytics 📊
-Web & Desktop Apps for Productivity 🖥️
-3D Modeling & Printing Designs 🖨️
-🏆 Certifications:
-
-DeepLearning.AI | HP Life | LinkedIn Learning
-Python, Data Science, AI, Cybersecurity, UI/UX Design
-🌎 Languages:
-
-Nepali (Native) 🇳🇵
-English (Fluent) 🇬🇧
-🌟 Interests:
-Data Science | Automation | AI | Software Development | Circuit & PCB Design | Tech for Social Impact
-
-📬 Let’s Connect:
-Website | LinkedIn | Email: bhattasandesh148@gmail.com
-
-
-# 👋 Hi, I’m Sandesh Bhatta (@sandeshbhatta495)
 
 ## 👀 I’m interested in  
 - Data Analysis 📊  
@@ -120,6 +99,17 @@ I have attended various workshops to expand my skillset:
 - Web automation & scraping projects 🤖  
 - UI/UX design and front-end development 🎨  
 - 3D design and modeling projects 🏗️  
+
+**🏆 Certifications:**
+
+**DeepLearning.AI | HP Life | LinkedIn Learning
+Python, Data Science, AI, Cybersecurity, UI/UX Design**
+
+**🌟 Interests:**
+Data Science | Automation | AI | Software Development | Circuit & PCB Design | Tech for Social Impact
+
+📬 Let’s Connect:
+Website | LinkedIn | Email: bhattasandesh148@gmail.com
 
 ## 📫 How to reach me  
 - 🌐 Portfolio: [www.sandeshbhatta495.com.np](http://www.sandeshbhatta495.com.np)  
