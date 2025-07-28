@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m Sandesh Bhatta (@sandeshbhatta495)
 
-#**🚀 Aspiring Engineer | Python Developer | IoT & Automation Enthusiast**
+**🚀 Aspiring Engineer | Python Developer | IoT & Automation Enthusiast**
 
 **Hi! I’m **Sandesh Bhatta ****— an ambitious, self-driven Electronics, Communication, and IT undergraduate at Tribhuvan University. As a first-generation engineer from a remote region, I bring resilience, creativity, and a relentless drive to innovate.
 
