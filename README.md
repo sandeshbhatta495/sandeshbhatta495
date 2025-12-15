@@ -1,117 +1,213 @@
-# 👋 Hey there, I’m Sandesh Bhatta (@sandeshbhatta495)
+# 👋 Hi, I’m Sandesh Bhatta
 
-**🚀 Aspiring Engineer | Python Developer | IoT Innovator | Automation Craftsman**
+**Electronics, Communication & IT Engineering Undergraduate**  
+**Python | Data Analysis | Machine Learning | Automation | IoT**
 
-> *“From the hills of Nepal to the heart of innovation, I build tech that matters.”*
+> *I turn engineering ideas into practical, real-world solutions using software intelligence and hardware systems.*
 
-I’m an Electronics, Communication & IT undergraduate at Tribhuvan University—one of the few but fierce first-generation engineers from a remote region, striving to blend **hardware precision with software power**. Armed with curiosity, I break down complex systems and rebuild them smarter.
+---
+
+## 🚀 About Me
+
+I’m a **motivated and self-driven engineering undergraduate** at **Tribhuvan University**, majoring in **Electronics, Communication, and Information Technology**.
+
+I specialize in **Python development, data analysis, automation, and IoT systems**, with hands-on experience gained through self-driven projects. My work spans **machine learning classification models, automation pipelines, embedded systems, numerical methods, and core computer organization concepts**.
+
+As a **first-generation engineer from a remote region**, I bring resilience, discipline, and a strong problem-solving mindset. I enjoy breaking complex engineering problems into **clear, logical steps** and building solutions that are **scalable, efficient, and practical**.
 
 ---
 
 ## 🧠 What Drives Me
 
-- 🚦 **Automating the mundane** with Python, Selenium, and IoT
-- 📈 **Extracting truth from data** using Pandas, NumPy, Seaborn
-- 🌐 **Scraping the web** for structured insights
-- 🛠️ **Designing systems** with Arduino, Raspberry Pi, and Fusion 360
-- 🎨 **Creating interfaces** that users actually *enjoy*
-- 📚 **Learning & iterating** like my life depends on it (because it does)
+- 🚀 Innovation through engineering  
+- 📚 Continuous learning & experimentation  
+- 🤝 Solving real-world problems  
+- 💡 Creative and analytical thinking  
+- 💻 Passion for technology & automation  
 
 ---
 
-## 🚧 Featured Projects
+## 🧰 Technical Skills
 
-### 🔹 Task Manager
-A SQLite-powered CLI app in Python that helps users **track, categorize, and complete tasks**. Built for minimalism, optimized for speed.
+### 💻 Programming & Software
+- Python, C, C++  
+- HTML, CSS, Basic JavaScript  
+- Tkinter (GUI Applications)
 
-### 🔹 Banking Management System
-Secure, modular, and practical banking app with login authentication, transaction history, and a clean dashboard. Your money’s digital watchdog.
+### 📊 Data Analysis & Machine Learning
+- Pandas, NumPy, Matplotlib, Seaborn  
+- Scikit-learn (Classification, Model Evaluation)  
+- TensorFlow (Basics)
 
-### 🔹 Pizza Order System
-Yes, I built a pizza bot. 🧀 Choose size, crust, toppings. Get total cost + taxes + order ID. **No human errors. No cold pizzas.**
+### ⚙️ Automation & Scraping
+- Selenium, BeautifulSoup  
+- n8n (AI Agents & Workflow Automation)
 
-### 🔹 Student Result System
-Robust student-grade platform with CSV exports and authentication. 📊 No more Excel nightmares for teachers.
+### 🔌 Hardware & Embedded Systems
+- Arduino, Sensors, Actuators  
+- Basic Circuit Design  
+- Raspberry Pi (Basics)
 
-### 🔹 Rock-Paper-Scissors (Python)
-Fun CLI game with **color-coded UI**, scoreboard, and AI opponent logic. Turns idle time into battle time.
+### 🗄️ Databases & Tools
+- SQLite, Basic SQL  
+- Git, GitHub  
+- Google Colab, Jupyter Notebook
 
-### 🔹 Exploratory Data Analysis
-From **Diwali sales** to **urban traffic**, I’ve cleaned, visualized, and interpreted datasets with Pandas, Seaborn, and Plotly. 📈
-
-### 🔹 Web Automation & Scraping
-Using Selenium + BeautifulSoup to collect data and **generate insight at scale**. Automated emailers, task runners, and scraping pipelines also included.
-
----
-
-## 🛠️ Tech Toolbox
-
-| Category              | Tools & Frameworks                                  |
-|----------------------|------------------------------------------------------|
-| Programming           | Python, C, C++, MATLAB, Bash                         |
-| Data & Automation     | Pandas, NumPy, Seaborn, Plotly, Selenium, BeautifulSoup |
-| IoT & Hardware        | Arduino, Raspberry Pi, TinkerCAD, Fusion 360        |
-| Web & UI              | HTML, CSS, JavaScript, Figma                        |
-| Database              | SQLite, Firebase                                    |
-| Workflow & DevOps     | Git, GitHub, VSCode, n8n, Shell Scripting           |
+### 🎨 Design & Productivity
+- Fusion 360 (3D Design)  
+- Figma (UI/UX)  
+- Photoshop, Canva  
+- Microsoft Office (Word, Excel)
 
 ---
 
-## 📚 Workshops & Certifications
+## 🧪 Projects (Highlighted)
 
-- 🎨 **Figma UI/UX Design**
-- 🤖 **Python for Data Science**
-- 🌐 **Web Scraping (Selenium + BS4)**
-- 🏗️ **3D Design & Modeling – Fusion 360**
-- 📜 **Certified by DeepLearning.AI, HP Life, LinkedIn Learning**  
-  *(AI, Cybersecurity, Data Science, Python, UI/UX)*
+### 📊 Diwali Sales Analysis
+Analyzed customer behavior, regional trends, and sales insights to generate business intelligence.
+
+**Tech:** Python, Pandas, Seaborn
 
 ---
 
-## 🤝 Let’s Collaborate On
+### 🎓 School Result Management System
+GUI-based system for managing student records, authentication, result entry, and report generation.
 
-- 🔍 Data Analysis & Visualization Projects  
-- 🧠 Python Automation Tools  
-- 🌐 Web Scraping Engines  
-- 🖌️ UI/UX Front-End Design  
-- 🏗️ Hardware + Software Hybrid Projects (IoT/PCB)
+**Tech:** Python, Tkinter, SQLite
 
 ---
 
-## 📫 How to Reach Me
+### 🌱 Modern Smart Agriculture System
+IoT-based automation system that monitors soil moisture and weather conditions to optimize irrigation.
 
-- 🌐 Portfolio: [www.sandeshbhatta495.com.np](http://www.sandeshbhatta495.com.np)  
-- 📩 Email: [bhattasandesh148@gmail.com](mailto:bhattasandesh148@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/sandeshbhatta495](https://www.linkedin.com/in/sandeshbhatta495)  
-- 🐦 Twitter: [@sandesh_495](https://twitter.com/sandeshbhatta)
+**Tech:** Arduino, C++, Sensors
+
+---
+
+### 🤖 AI-Powered Chatbot
+Basic NLP-based chatbot developed for machine learning practice and interaction testing.
+
+**Tech:** Python, TensorFlow
+
+---
+
+### 🌐 Personal Portfolio Website
+Responsive website showcasing projects, skills, certifications, and contact information.
+
+**Tech:** HTML, CSS, JavaScript
+
+---
+
+### 💬 WhatsApp Chat Automation
+Automated WhatsApp messaging system using browser automation.
+
+**Tech:** Python, Selenium
+
+---
+
+### 🌦️ Weather Forecasting App
+Web application providing real-time weather updates using public APIs.
+
+**Tech:** HTML, CSS, JavaScript, OpenWeather API
+
+---
+
+### 🏦 Simple Banking System
+CLI-based system handling account creation, transactions, and history tracking.
+
+**Tech:** Python
+
+---
+
+### 📦 Inventory Management System
+Inventory tracking system for stock management and report generation.
+
+**Tech:** Python, Pandas
+
+---
+
+### 🤖 Personal AI Agent (n8n)
+Workflow-based AI agent automating reminders, alerts, and task handling.
+
+**Tech:** n8n
+
+---
+
+### 📱 3D Printed Mobile Stand
+Designed a mobile stand optimized for stability and printability.
+
+**Tech:** Fusion 360, 3D Printing
+
+---
+
+### ⚙️ Telegram-Based AI Agent
+Telegram-triggered voice assistant that fetches news, sends emails, and executes commands.
+
+**Tech:** n8n Automation
+
+---
+
+## 🎓 Certifications & Workshops
+
+- AI for Everyone – DeepLearning.AI  
+- ChatGPT Prompt Engineering for Developers – DeepLearning.AI  
+- AI for Beginners – HP LIFE  
+- What Is Generative AI? – LinkedIn Learning  
+- Python with Data Science – Tech Axis  
+- UI/UX Design with Figma – RIU  
+- Git & GitHub Workshop – ARC  
+- 3D Design & Printing – HP LIFE / RIU  
+- Cyber Security Awareness – HP LIFE  
+- Effective Presentations – HP LIFE  
+- HP LIFE Ambassador (2025)
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🤖 Advanced Python Automation Workflows
-- 📦 API Integration for Real-Time IoT Dashboards
-- 🧠 Machine Learning Basics with Scikit-learn
-- 📡 MQTT & Wireless Sensor Networks
+- Machine Learning model improvement  
+- Advanced Python automation  
+- API integration for IoT dashboards  
+- Wireless communication & sensor networks  
+- Clean, production-quality code practices  
 
 ---
 
-## 🔥 Fun Fact
+## 🤝 Open to Collaborate On
 
-> I don’t just write code. I design **intelligent systems** that solve real-world pain points—whether it’s a cluttered UI, inefficient workflows, or noisy sensor data. When I’m not shipping code, I’m probably sketching circuits, watching tech breakdowns, or playing sports to reset my mind.
-
----
-
-## ⚙️ Repo Philosophy
-
-Every repo I push is a **launchpad**—documented, organized, and ready for the next dev to fork, extend, and build upon. I believe in code that speaks for itself—*clean, modular, and resilient.*
+- Python & Machine Learning Projects  
+- Data Analysis & Visualization  
+- Automation & AI Agents  
+- IoT + Software Hybrid Systems  
+- Engineering-focused open-source projects  
 
 ---
 
-## 🙏 Final Note
+## 📫 Get in Touch
 
-I’m not just learning—I’m leveling up.  
-Let’s connect, collaborate, or just geek out about the beauty of well-written code, minimal UI, and automating life itself.
+- 🌐 Portfolio: http://www.sandeshbhatta495.com.np  
+- 📧 Email: bhattasandesh148@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/sandesh-bhatta  
+- 🐙 GitHub: https://github.com/sandeshbhatta495  
 
 ---
-*“The future belongs to those who build it. I code to carve my place in it.”*
+
+## 🔍 GitHub Philosophy
+
+I believe in:
+- clean and readable code  
+- meaningful documentation  
+- learning-oriented repositories  
+- engineering logic over shortcuts  
+
+Each repository reflects **consistent learning and practical problem-solving**.
+
+---
+
+## ⚡ Final Note
+
+I’m focused on becoming a **well-rounded engineer** who understands both **theory and implementation**.
+
+If you’re interested in **Python, ML, IoT, or automation**, let’s connect and build something impactful.
+
+⭐ *Feel free to star repositories if you find them useful.*
