@@ -133,7 +133,7 @@ Workflow-based AI agent automating reminders, alerts, and task handling.
 
 ---
 
-### 📱 3D Printed Mobile Stand
+### 📱 3D Print and Design (AutoCad)(Fusion-360)
 Designed a mobile stand optimized for stability and printability.
 
 **Tech:** Fusion 360, 3D Printing
