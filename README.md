@@ -101,7 +101,7 @@ Responsive website showcasing projects, skills, certifications, and contact info
 ### 💬 WhatsApp Chat Automation
 Automated WhatsApp messaging system using browser automation.
 
-**Tech:** Python, Selenium
+**Tech:** Python
 
 ---
 
@@ -136,7 +136,7 @@ Workflow-based AI agent automating reminders, alerts, and task handling.
 ### 📱 3D Print and Design (AutoCad)(Fusion-360)
 Designed a mobile stand optimized for stability and printability.
 
-**Tech:** Fusion 360, 3D Printing
+**Tech:** Fusion 360, 3D Printing, 3D printer
 
 ---
 
