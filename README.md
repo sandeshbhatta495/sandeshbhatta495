@@ -186,7 +186,7 @@ Telegram-triggered voice assistant that fetches news, sends emails, and executes
 ## 📫 Get in Touch
 
 - 🌐 Portfolio: http://www.sandeshbhatta495.com.np
--               https://www.sandeshbhattta.me
+-  https://www.sandeshbhattta.me
 - 📧 Email: bhattasandesh148@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/sandesh-bhatta  
 - 🐙 GitHub: https://github.com/sandeshbhatta495  
