@@ -149,10 +149,11 @@ Telegram-triggered voice assistant that fetches news, sends emails, and executes
 
 ## 🎓 Certifications & Workshops
 
-- Machine Learning on Supervised Learning(Linear and Logistic Regression) - Deeplearning.AI & Standford University 
--  AI for Everyone – DeepLearning.AI
-- ChatGPT Prompt Engineering for Developers – DeepLearning.AI  
-- AI for Beginners – HP LIFE  
+- **Machine Learning on Supervised Learning(Linear and Logistic Regression)** - Deeplearning.AI & Standford University
+- 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 - Deeplearning.AI & Standford University
+-  **AI for Everyone **– DeepLearning.AI
+- **ChatGPT Prompt Engineering for Developers** – DeepLearning.AI  
+- **AI for Beginners** – HP LIFE  
 - What Is Generative AI? – LinkedIn Learning  
 - Python with Data Science – Tech Axis  
 - UI/UX Design with Figma – RIU  
