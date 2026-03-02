@@ -148,7 +148,7 @@ Telegram-triggered voice assistant that fetches news, sends emails, and executes
 ---
 
 ## 🎓 Certifications & Workshops
-
+**
 - **Machine Learning on Supervised Learning(Linear and Logistic Regression)** - Deeplearning.AI & Standford University
 - 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 - Deeplearning.AI & Standford University
 -  **AI for Everyone **– DeepLearning.AI
@@ -163,7 +163,7 @@ Telegram-triggered voice assistant that fetches news, sends emails, and executes
 - Effective Presentations – HP LIFE  
 - HP LIFE Ambassador (2025)
 
----
+---**
 
 ## 🌱 Currently Learning
 
